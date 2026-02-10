@@ -1,3 +1,8 @@
-# Music learning tools 
-## I'm currently learning the guitar and thought it might be a cool idea to make my own tools for learning it and share them with the world
-### because I am learning the guitar we will mainly focus on the guitar
+# 🎸 Music Learning Tools
+
+Open-source tools for learning and practicing music,
+mostly focused on **guitar**.
+
+## Current Status
+Just getting started.
+Everything is early.
